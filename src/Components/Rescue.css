@@ -1,0 +1,10 @@
+.rescue {
+  background-color: #354147;
+  padding: 4rem;
+  text-align: left;
+}
+.line {
+  background-color: white;
+  width: 50%;
+  height: 2px;
+}
